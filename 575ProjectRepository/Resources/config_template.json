@@ -1,0 +1,25 @@
+{
+	"postProcessPath": "../Data",
+	"dataPointWidth": 160,
+	"dataPointHeight": 120,
+	
+	"labels": [
+		{
+			"name": "LABEL_1",
+			"labelNum": 0,
+			"isEnabled": false,
+			"sources": [
+				"PATH_TO_.WAV_FILES"
+			]
+		},
+		
+		{
+			"name": "LABEL_2",
+			"labelNum": 1,
+			"isEnabled": false,
+			"sources": [
+				"PATH_TO_.WAV_FILES"
+			]
+		}
+	]
+}
